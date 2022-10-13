@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Prompt&family=Roboto&display=swap");
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+h2{
+    cursor: pointer;
+    transition: 1.0s;
+}
+button{
+    font-weight: bold;
+    background-color: #414141;
+    color: white;
+    padding:5px 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 170px;
+    margin-bottom: 60px;
+    transition: 0.5s;
+}
+button:hover{
+    transform: scale(1.1);
+}
+.tombol{
+    text-align: left;
+}
